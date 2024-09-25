@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me itzz.jose_25
-- 😄 Pronouns: he/hum
+- 😄 Pronouns: he/him
 - ⚡ Fun fact:I am Spiderman
 
 <!---
