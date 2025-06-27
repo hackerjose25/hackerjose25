@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hackerjose25
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me itzz.jose_25
+- 📫 How to reach me www.linkedin.com/in/jose-regish-9b7196350
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:I am Spiderman
 
