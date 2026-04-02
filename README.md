@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hackerjose25&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=hackerjose25&locale=en&mode=weekly&theme=darcula&hide_border=true&border_radius=40" height="162" alt="streak graph"  />
 </div>
 
 ###
@@ -52,7 +52,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackerjose25/hackerjose25/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackerjose25/hackerjose25/output/pacman-contribution-graph.svg">
- 
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hackerjose25/hackerjose25/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
