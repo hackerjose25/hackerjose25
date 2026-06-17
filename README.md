@@ -43,9 +43,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hackerjose25&locale=en&mode=weekly&theme=darcula&hide_border=true&border_radius=40" height="162" alt="streak graph"  />
-</div>
+
 
 ###
 
