@@ -114,7 +114,7 @@
   </defs>
 
   <style>
-    /* TASM Organic Breathing & Pulse */
+    /* TASM Organic Breathing and Pulse */
     @keyframes tasmBreathing {
       0%, 100% {
         transform: scale(1);
