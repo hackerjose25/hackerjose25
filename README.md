@@ -35,12 +35,6 @@
 <br/>
 
 <div align="center">
-  <img src="./spider-hud-card.svg" alt="Spider-Man Developer HUD Dossier & Architecture Metrics" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="./spider-divider.svg" width="100%" />
 </div>
 
