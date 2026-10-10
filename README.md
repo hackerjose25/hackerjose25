@@ -58,8 +58,8 @@
       </p>
       <p align="center">
         <a href="https://ipfs.tech/"><img src="https://cdn.simpleicons.org/ipfs/65C2CB" width="46" height="46" alt="IPFS" /></a>&nbsp;
-        <a href="https://hardhat.org/"><img src="https://cdn.simpleicons.org/hardhat/FFF100" width="46" height="46" alt="Hardhat" /></a>&nbsp;
-        <a href="https://metamask.io/"><img src="https://cdn.simpleicons.org/metamask/E2761B" width="46" height="46" alt="MetaMask" /></a>
+        <a href="https://hardhat.org/"><img src="https://skillicons.dev/icons?i=hardhat" width="46" height="46" alt="Hardhat" /></a>&nbsp;
+        <a href="https://metamask.io/"><img src="https://skillicons.dev/icons?i=metamask" width="46" height="46" alt="MetaMask" /></a>
       </p>
       <p align="center">
         <sub><b>Solidity · Smart Contracts · EVM · DApps · DeFi · Web3.js</b></sub>
