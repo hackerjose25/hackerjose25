@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./assets/spider-header.svg" alt="Jose Regish J — Spider-Man Themed Profile Header" width="100%" />
+  <img src="./spider-header.svg" alt="Jose Regish J — Spider-Man Themed Profile Header" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/spider-divider.svg" width="100%" />
+  <img src="./spider-divider.svg" width="100%" />
 </div>
 
 <br/>
@@ -35,13 +35,13 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/spider-hud-card.svg" alt="Spider-Man Developer HUD Dossier & Architecture Metrics" width="100%" />
+  <img src="./spider-hud-card.svg" alt="Spider-Man Developer HUD Dossier & Architecture Metrics" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/spider-divider.svg" width="100%" />
+  <img src="./spider-divider.svg" width="100%" />
 </div>
 
 <br/>
@@ -109,7 +109,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/spider-divider.svg" width="100%" />
+  <img src="./spider-divider.svg" width="100%" />
 </div>
 
 <br/>
@@ -170,7 +170,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/spider-divider.svg" width="100%" />
+  <img src="./spider-divider.svg" width="100%" />
 </div>
 
 <br/>
@@ -215,7 +215,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/spider-divider.svg" width="100%" />
+  <img src="./spider-divider.svg" width="100%" />
 </div>
 
 <br/>
@@ -260,5 +260,5 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/spider-footer.svg" alt="Spider-Man Multiverse Profile Footer" width="100%" />
+  <img src="./spider-footer.svg" alt="Spider-Man Multiverse Profile Footer" width="100%" />
 </div>
