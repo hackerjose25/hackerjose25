@@ -115,67 +115,6 @@
 <br/>
 
 <div align="center">
-  <h2>🚀 MULTIVERSE PROTOCOLS // FEATURED PROJECTS</h2>
-  <p><em>"Real-world decentralized applications, smart contract protocols, and full-stack solutions."</em></p>
-</div>
-
-<br/>
-
-### 🕸️ [AgentPay](https://github.com/hackerjose25/AgentPay)
-> **Autonomous AI Agent Financial Rails & Web3 Settlement Protocol**
-- **Architecture:** Decentralized infrastructure enabling autonomous software agents to execute programmatic micro-payments and settle on-chain transactions via smart contracts.
-- **Technologies:** `Solidity` · `TypeScript` · `Web3.js` · `Smart Contracts` · `EVM`
-- **Domain:** <kbd>● WEB3 & BLOCKCHAIN</kbd> &nbsp; <kbd>● SMART CONTRACTS</kbd>
-
-<br/>
-
-### 💼 [JosePortfolio](https://github.com/hackerjose25/JosePortfolio) &nbsp; 🔗 [Live Preview](https://jose-portfolio-pi.vercel.app)
-> **Modern Cybernetic Developer Portfolio**
-- **Architecture:** Interactive personal portfolio showcasing full-stack capabilities, web apps, and design projects with ultra-responsive UX and seamless transitions.
-- **Technologies:** `React` · `JavaScript` · `CSS3` · `Vercel`
-- **Domain:** <kbd>● FULL-STACK WEB</kbd> &nbsp; <kbd>● LIVE PRODUCTION</kbd>
-
-<br/>
-
-### 🚨 [Safety360](https://github.com/hackerjose25/safety360)
-> **Real-Time Emergency SOS & Automated Police Telemetry Matrix**
-- **Architecture:** Mission-critical emergency safety system. Upon one-tap trigger, user GPS coordinates, live video stream, and telemetry are transmitted in real time directly to the emergency dispatch dashboard.
-- **Technologies:** `JavaScript` · `Node.js` · `WebRTC` · `Geolocation API` · `Express`
-- **Domain:** <kbd>● FULL-STACK WEB</kbd> &nbsp; <kbd>● IOT & TELEMETRY</kbd>
-
-<br/>
-
-### 🛡️ [Vulnerability-Scanner](https://github.com/hackerjose25/Vulnerability-Scanner)
-> **Automated Exploit Detection & Security Assessment Suite**
-- **Architecture:** Automated security scanner engineered to probe endpoints for web vulnerabilities, misconfigured headers, and security loopholes before malicious entities find them.
-- **Technologies:** `Python` · `Network Security` · `Socket Programming` · `Cyber Defense`
-- **Domain:** <kbd>● CYBER DEFENSE</kbd> &nbsp; <kbd>● AUDITING</kbd>
-
-<br/>
-
-### 🌐 [NetSense](https://github.com/hackerjose25/NetSense)
-> **Intelligent Network Traffic & Threat Anomaly Monitor**
-- **Architecture:** High-throughput network packet analyzer inspecting anomalous traffic flows and suspicious connection patterns in real time.
-- **Technologies:** `TypeScript` · `Packet Inspection` · `Data Telemetry`
-- **Domain:** <kbd>● FULL-STACK</kbd> &nbsp; <kbd>● TELEMETRY</kbd>
-
-<br/>
-
-### 🧠 [HealthTracker-AI](https://github.com/hackerjose25/HealthTracker-AI)
-> **Predictive Biometric Analytics & Smart Health Companion**
-- **Architecture:** Machine-learning powered health monitoring engine providing proactive personal analytics and smart wellness diagnostics.
-- **Technologies:** `JavaScript` · `React` · `Python` · `Machine Learning`
-- **Domain:** <kbd>● FULL-STACK AI</kbd> &nbsp; <kbd>● BIOMETRICS</kbd>
-
-<br/>
-
-<div align="center">
-  <img src="./spider-divider.svg" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
   <h2>📊 SPIDER-SENSE TELEMETRY // LIVE GITHUB STATS</h2>
   <p><em>"Real-time diagnostic stream measuring commit velocity, language mastery, and streak intensity."</em></p>
 </div>
@@ -191,26 +130,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackerjose25&theme=transparent&hide_border=false&border=ff1744&stroke=00f0ff&ring=ff1744&fire=ff1744&currStreakNum=00f0ff&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b" alt="Jose's Streak Stats" />
 </p>
-
-<br/>
-
-<div align="center">
-  <h3>🎮 PACMAN CONTRIBUTION MATRIX</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackerjose25/hackerjose25/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackerjose25/hackerjose25/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/hackerjose25/hackerjose25/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" width="95%" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🎵 SPIDER-SUIT AUDIO FEED // SPOTIFY</h3>
-  <a href="https://open.spotify.com/user/317hew6gxt3kuesq7rrng254viym" target="_blank" rel="noreferrer">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317hew6gxt3kuesq7rrng254viym&count=5&unique=false" alt="Spotify Recently Played" />
-  </a>
-</div>
 
 <br/>
 
