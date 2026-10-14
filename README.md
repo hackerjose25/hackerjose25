@@ -109,31 +109,6 @@
 <br/>
 
 <div align="center">
-  <h2>📊 SPIDER-SENSE TELEMETRY // LIVE GITHUB STATS</h2>
-  <p><em>"Real-time diagnostic stream measuring commit velocity, language mastery, and streak intensity."</em></p>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackerjose25&show_icons=true&theme=transparent&hide_border=false&border_color=ff1744&title_color=ff1744&icon_color=00f0ff&text_color=e2e8f0&bg_color=00000000" alt="Jose's Spider-Man Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerjose25&layout=compact&theme=transparent&hide_border=false&border_color=00f0ff&title_color=00f0ff&text_color=e2e8f0&bg_color=00000000" alt="Jose's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackerjose25&theme=transparent&hide_border=false&border=ff1744&stroke=00f0ff&ring=ff1744&fire=ff1744&currStreakNum=00f0ff&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b" alt="Jose's Streak Stats" />
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="./spider-divider.svg" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
   <h2>🌐 SPIDER-NET COMMUNIQUE // CONNECT WITH JOSE</h2>
   <p><em>"Building decentralized protocols, full-stack systems, or looking for an impactful engineer? Let's connect!"</em></p>
 
